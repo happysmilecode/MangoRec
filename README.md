@@ -146,3 +146,8 @@ docker run -it --rm -p 8000:8000 -v "$(pwd)":/data/recruitment  --entrypoint /bi
 
 指定加载源码 && 环境变量：
 docker run --rm -p 8000:8000 -v "$(pwd)":/data/recruitment  --env server_params="--settings=settings.local"  ihopeit/recruitment-base:0.8
+
+連携情報：
+kakashinakamoto0822@gmail.com
+fantasydev1225@gmail.com
+kevinharuto430@gmail.com
